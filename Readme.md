@@ -1,6 +1,3 @@
-
-
-```markdown
 # MetaPort: AI-Powered Cross-Chain Infrastructure Protocol 🌉
 ## 🚀 Overview
 
